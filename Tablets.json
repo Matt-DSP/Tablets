@@ -72,7 +72,7 @@
   "javascript_interface": true,
   "lock_rotation": false,
   "show_forward_icon": false,
-  "use_device_backbutton": true,
+  "use_device_backbutton": false,
   "device_wake_time_saturday": "",
   "screensaver_timeout": 5,
   "device_wake_time_tuesday": "",
