@@ -2,7 +2,7 @@
   "custom_app_title": "Dubuque Screw Products",
   "settings_password": "6500",
   "wifi_settings_password": "ChangeW1f1",
-  "automatic_config_url": "",
+  "automatic_config_url": "https://raw.githubusercontent.com/Matt-DSP/Tablets/main/200A.json",
   "serial_number_source": "DEFAULT",
   "default_app": "",
   "visible_apps": "com.sec.android.app.clockpackage,com.shoptech.ShopFloorClock,com.google.android.calculator",
