@@ -36,6 +36,7 @@
   "device_reboot_time_friday": "",
   "device_reboot_time_saturday": "",
   "automatic_update_time": "",
+  "above_screen_lock": true, 
   "disable_safe_mode": false,
   "suppress_error_dialogs": false,
   "multitap_settings": true,
