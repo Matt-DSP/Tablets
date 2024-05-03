@@ -1,5 +1,6 @@
 {
   "hide_action_bar": false,
+  "automatic_config_url": "https://raw.githubusercontent.com/Matt-DSP/Tablets/main/200A.json",
   "show_print_menu": false,
   "multitap_settings": true,
   "device_sleep_time": "",
