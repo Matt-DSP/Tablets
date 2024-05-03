@@ -16,7 +16,7 @@
   "hide_google_play_services_messages": false,
   "screensaver_urls": "https://www.google.com/images",
   "show_back_icon": true,
-  "kiosk_url": "Office.com",
+  "kiosk_url": "https://forms.office.com/Pages/ResponsePage.aspx?id\u003d1HY6DICnp0acomoSelVSmcuhe-CEfdBEgYRriYW0NmZURVZGMzBDVURDSldCMzQ3UDcyWThIMkNJMi4u",
   "use_wide_viewport": true,
   "hyperlink_sound": false,
   "reset_wifi": false,
