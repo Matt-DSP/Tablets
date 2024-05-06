@@ -123,7 +123,7 @@
   "input_resize_page_padding": 0,
   "install_apps": [],
   "javascript_interface": true,
-  "keep_screen_on": false,
+  "keep_screen_on": true,
   "kiosk_url": "https://operator.machinemetrics.com/machine/d6750a9e-619f-4330-b072-09cecfe60f5a/home/partCount?machineSet=true",
   "lock_rotation": false,
   "multitap_count": 4,
