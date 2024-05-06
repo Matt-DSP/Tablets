@@ -176,7 +176,7 @@
   "user_agent": "DEFAULT",
   "user_agent_custom": "",
   "visible_apps": "com.sec.android.app.clockpackage,com.shoptech.ShopFloorClock,com.google.android.calculator,com.sec.android.app.camera,com.sec.android.gallery3d,com.sec.android.app.myfiles",
-  "volume_controls_enabled": true,
+  "volume_controls_enabled": false,
   "wake_device": true,
   "whitelist_deny_kiosk_url": false,
   "whitelist_redirect": false,
