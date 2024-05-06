@@ -158,7 +158,7 @@
   "show_home_icon": false,
   "show_print_menu": false,
   "show_refresh_icon": false,
-  "show_restart_app_menu": false,
+  "show_restart_app_menu": true,
   "sleep_device": false,
   "sleep_power_connect": true,
   "sleep_power_disconnect": false,
