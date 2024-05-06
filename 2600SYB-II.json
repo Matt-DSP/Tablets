@@ -124,7 +124,7 @@
   "install_apps": [],
   "javascript_interface": true,
   "keep_screen_on": true,
-  "kiosk_url": "https://operator.machinemetrics.com/machine/d6750a9e-619f-4330-b072-09cecfe60f5a/home/partCount?machineSet=true",
+  "kiosk_url": "https://operator.machinemetrics.com/machine/444f4e67-6b08-4007-9e9d-28e7cb616bae/home/partCount?machineSet=true",
   "lock_rotation": false,
   "multitap_count": 4,
   "multitap_settings": true,
