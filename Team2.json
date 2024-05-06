@@ -46,7 +46,7 @@
   "hide_system_dialogs": true,
   "hide_status_bar": true,
   "prevent_notification_access": true,
-  "keep_screen_on": true,
+  "keep_screen_on": false,
   "kiosk_url": "https://forms.office.com/Pages/ResponsePage.aspx?id\u003d1HY6DICnp0acomoSelVSmcuhe-CEfdBEgYRriYW0NmZURVZGMzBDVURDSldCMzQ3UDcyWThIMkNJMi4u",
   "prevent_screen_power_off": true,
   "control_wifi_state": true,
