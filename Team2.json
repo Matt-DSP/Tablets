@@ -163,7 +163,7 @@
   "sleep_power_connect": true,
   "sleep_power_disconnect": false,
   "standalone_mode": false,
-  "theme": "Blue",
+  "theme": "red",
   "timeout_cacheclear": true,
   "timeout_cookieclear": false,
   "timeout_formsclear": true,
