@@ -119,7 +119,7 @@
   "idle_timeout_always_reload": true,
   "ignore_certificate_errors": false,
   "initial_zoom": 0,
-  "input_resize_page": false,
+  "input_resize_page": true,
   "input_resize_page_padding": 0,
   "install_apps": [],
   "javascript_interface": true,
