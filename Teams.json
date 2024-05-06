@@ -142,7 +142,7 @@
   "require_password": true,
   "reset_wifi": false,
   "reset_wifi_interval": 0,
-  "reboot_device": false,
+  "reboot_device": true,
   "rotation": "LANDSCAPE",
   "screensaver_random": false,
   "screensaver_slide_delay": 60,
