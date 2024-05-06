@@ -145,7 +145,7 @@
   "reboot_device": false,
   "rotation": "LANDSCAPE",
   "screensaver_random": false,
-  "screensaver_slide_delay": 15,
+  "screensaver_slide_delay": 60,
   "screensaver_timeout": 5,
   "screensaver_urls": "https://www.google.com/images",
   "serial_number_source": "DEFAULT",
