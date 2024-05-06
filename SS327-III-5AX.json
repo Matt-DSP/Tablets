@@ -138,7 +138,7 @@
   "prevent_screen_power_off": true,
   "prevent_submit_keyboard": false,
   "reload_network_change": true,
-  "reload_on_screen_on": false,
+  "reload_on_screen_on": true,
   "require_password": true,
   "reset_wifi": false,
   "reset_wifi_interval": 0,
