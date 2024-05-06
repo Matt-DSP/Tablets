@@ -16,7 +16,7 @@
   "autoplay_video": false,
   "automatic_config_download_frequency": 15,
   "automatic_config_url": "https://raw.githubusercontent.com/Matt-DSP/Tablets/main/Team2.json",
-  "automatic_update_time": "",
+  "automatic_update_time": "23:00",
   "back_toggles_fullscreen": false,
   "background_colour": "",
   "barcode_redirect_url": "",
