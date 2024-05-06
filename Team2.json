@@ -107,7 +107,7 @@
   "fullscreen_mode": true,
   "hardware_acceleration": true,
   "hide_action_bar": false,
-  "hide_google_play_services_messages": false,
+  "hide_google_play_services_messages": true,
   "hide_menu_items": false,
   "hide_progress_bar": false,
   "hide_system_dialogs": true,
