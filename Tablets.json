@@ -51,7 +51,7 @@
   "allow_popup_windows": false,
   "device_reboot_time_thursday": "",
   "url_whitelist": false,
-  "reboot_device": false,
+  "reboot_device": true,
   "disable_recents": true,
   "back_toggles_fullscreen": false,
   "custom_app_title": "Dubuque Screw Products",
