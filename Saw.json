@@ -68,7 +68,7 @@
   "custom_screensaver": false,
   "custom_screensaver_type": "IMAGE",
   "custom_toolbar_url": "",
-  "default_app": "",
+  "default_app": "com.shoptech.ShopFloorClock",
   "default_app_launch_time": 10,
   "delay_load_on_startup": 0,
   "device_reboot_time": "",
