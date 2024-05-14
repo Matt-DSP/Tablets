@@ -56,7 +56,7 @@
   "browser_use_wide_viewport": true,
   "cache_mode": "LOAD_DEFAULT",
   "cacheclear_page_load": true,
-  "camera_icon": true,
+  "camera_icon": false,
   "control_brightness": false,
   "control_wifi_state": true,
   "custom_app_title": "Dubuque Screw Products",
