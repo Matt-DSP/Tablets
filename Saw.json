@@ -175,7 +175,7 @@
   "use_wide_viewport": true,
   "user_agent": "DEFAULT",
   "user_agent_custom": "",
-  "visible_apps": "com.shoptech.ShopFloorClock"
+  "visible_apps": "com.shoptech.ShopFloorClock,com.sec.android.app.popupcalculator"
   "wake_device": false,
   "whitelist_deny_kiosk_url": false,
   "whitelist_redirect": false,
