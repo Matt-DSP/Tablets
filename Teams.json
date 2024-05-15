@@ -159,7 +159,7 @@
   "show_print_menu": false,
   "show_refresh_icon": false,
   "show_restart_app_menu": false,
-  "show_reboot_device_menu": true,
+  "show_reboot_device_menu": false,
   "sleep_device": false,
   "sleep_power_connect": false,
   "sleep_power_disconnect": true,
