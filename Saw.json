@@ -1,4 +1,5 @@
 {
+  "automatic_config_url": "http://192.168.0.247/Saw.json",
   "browser_clear_data_on_exit": false,
   "multitap_settings": true,
   "clear_app_data_on_launch": false,
