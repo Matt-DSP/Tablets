@@ -23,7 +23,7 @@
   "browser_clear_data_on_exit": false,
   "browser_clear_forms_on_reload": false,
   "browser_clear_web_storage_on_reload": false,
-  "browser_default": false,
+  "browser_default": true,
   "browser_enabled": "True",
   "browser_hide_alert_dialogs": false,
   "browser_hide_toolbar": false,
