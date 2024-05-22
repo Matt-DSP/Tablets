@@ -103,7 +103,7 @@
   "settings_password": "6500",
   "show_clear_app_data_menu": false,
   "show_recents_button": false,
-  "show_reboot_device_menu": false,
+  "show_reboot_device_menu": true,
   "show_restart_app_menu": false,
   "sleep_power_connect": false,
   "sleep_power_disconnect": false,
