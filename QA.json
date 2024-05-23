@@ -5,7 +5,7 @@
   "app_restart_time": "",
   "app_text_label_colour": "#AAAAAA",
   "automatic_config_download_frequency": 15,
-  "automatic_config_url": "https://raw.githubusercontent.com/Matt-DSP/Tablets/main/QA.json",
+  "automatic_config_url": "http://192.168.0.247/QA.json",
   "automatic_update_time": "23:00",
   "auto_grant_permissions": true,
   "background_colour": "#424242",
